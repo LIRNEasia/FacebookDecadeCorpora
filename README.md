@@ -1,5 +1,5 @@
 # FacebookDecadeCorpora
-This repository contains two language corpora of colloquial Sinhala content extracted from Facebook. 
+This repository contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. 
 
 ## Corpus-Alpha
 The larger of the two corpora spans 2010 to 2020 and contains 28,825,820 to 29,549,672 words of trilingual text posted by 533 Sri Lankan Facebook pages, including politics, media, celebrities, and other categories. It contains URLs, punctuation and other noise, making it more suitable for discourse analysis and the study of codemixing in colloquial Sinhala.
@@ -19,7 +19,7 @@ $ cat file_part* > corpus.csv
 Stopwords.txt contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux.
 
 ## Methodology, issues and discussion
-<lirneasia url link here>
+https://lirneasia.net/2020/07/sinhala-language-corpora-and-stopwords-from-a-decade-of-sri-lankan-facebook/
   
 ## License
 
