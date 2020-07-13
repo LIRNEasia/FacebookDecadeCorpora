@@ -2,7 +2,7 @@
 This repository contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. 
 
 ## Corpus-Alpha
-The larger of the two corpora spans 2010 to 2020 and contains 28,825,820 to 29,549,672 words of trilingual text posted by 533 Sri Lankan Facebook pages, including politics, media, celebrities, and other categories. It contains URLs, punctuation and other noise, making it more suitable for discourse analysis and the study of codemixing in colloquial Sinhala.
+The larger of the two corpora spans trilingual text posted by 533 Sri Lankan Facebook pages, including politics, media, celebrities, and other categories, from 2010 to 2020. It contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil (the three main languages used in Sri Lanka). It contains URLs, punctuation and other noise, making it more suitable for discourse analysis and the study of codemixing in colloquial Sinhala.
 
 ## Corpus-Sinhala-Redux
 The smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. It has been cleaned of URLs, punctuation and noise.
