@@ -5,7 +5,7 @@ This repository contains two language corpora of colloquial Sinhala content extr
 The larger of the two corpora spans 2010 to 2020 and contains 28,825,820 to 29,549,672 words of trilingual text posted by 533 Sri Lankan Facebook pages, including politics, media, celebrities, and other categories. It contains URLs, punctuation and other noise, making it more suitable for discourse analysis and the study of codemixing in colloquial Sinhala.
 
 ## Corpus-Sinhala-Redux
-The smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from the larger. It has been cleaned of URLs, punctuation and noise.
+The smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. It has been cleaned of URLs, punctuation and noise.
 
 Both corpora have markers for their date of creation, page of origin, and content type. 
 
