@@ -14,7 +14,16 @@ To download either corpus, navigate to /corpus-alpha or /corpus-sinhala-redux in
 ```
 $ cat file_part* > corpus.csv
 ```
+
+## Stopwords
+Stopwords.txt contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux.
+
+## Methodology, issues and discussion
+<lirneasia url link here>
+
 These datasets are released under the principles of Open Access. As such, this work is licensed under a Creative Commons 4.0 CC BY licence: you may distribute, remix, adapt, and build upon this work, even commercially, as long as you credit the authors for the original creation. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. Please see the full license at https://creativecommons.org/licenses/by/4.0/legalcode
+
+
 
 # Citing
 Wijeratne, Y., de Silva, N. (2020). Large Sinhala language corpora and stopwords compiled from a decade of Sri Lankan Facebook. LIRNEasia.
