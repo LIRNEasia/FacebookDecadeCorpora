@@ -22,7 +22,7 @@ To download either corpus using Github, navigate to /corpus-alpha or /corpus-sin
 ```
 $ cat file_part* > corpus.csv
 ```
-Alternatively, this drive link contains the complete csv versions, including unigram and bigram tables https://drive.google.com/drive/folders/1P5-hdQZiAysjaApS0JaO-SulMgLp_4QW?usp=sharing
+Alternatively, this drive link contains the complete csv versions, including unigram and bigram tables: https://drive.google.com/drive/folders/1P5-hdQZiAysjaApS0JaO-SulMgLp_4QW?usp=sharing
   
 ## License
 
