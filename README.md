@@ -9,11 +9,14 @@ The smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from
 
 Both corpora have markers for their date of creation, page of origin, and content type. 
 
-To download either corpus, navigate to /corpus-alpha or /corpus-sinhala-redux in this repository. The file parts there (file_part_xx) are pieces of a CSV file, seperated using the standard Linux split command. file_part_00 contains the header. Either join them using column IDs in whichever programming language you use, or in the linux terminal, use:
+##Downloading
+
+To download either corpus using Github, navigate to /corpus-alpha or /corpus-sinhala-redux in this repository. The file parts there (file_part_xx) are pieces of a CSV file, seperated using the standard Linux split command. file_part_00 contains the header. Either join them using column IDs in whichever programming language you use, or in the linux terminal, use:
 
 ```
 $ cat file_part* > corpus.csv
 ```
+Alternatively, this drive link contains the complete csv versions, including unigram and bigram tables https://drive.google.com/drive/folders/1P5-hdQZiAysjaApS0JaO-SulMgLp_4QW?usp=sharing
 
 ## Stopwords
 Stopwords.txt contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux.
