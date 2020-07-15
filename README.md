@@ -29,6 +29,8 @@ Alternatively, this drive link contains the complete csv versions, including uni
 It's fairly common for Sinhala text to render as gibberish, even in a programming environment. This has a lot to do with how programs use your system locale to select language. We've run into this issue with RStudio on Windows, for instance, but RStudio on Linux reads just fine. Likewise, Microsoft Excel has thrown issues on Windows, while LibreOffice reads just fine.
 
 A few tips: use UTF-8 when reading these files. Head on to https://www.unicode.org/help/display_problems.html for generic display advice and check Stackoverflow for program-specific problems.
+
+We recommend Perl for language wrangling, especially if you need REGEXs. It's what we've used here for data cleaning.  
   
 ## License
 
